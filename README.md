@@ -87,7 +87,7 @@ sudo bash -c "$(curl -sSL https://download.yops.cn/package/install.sh)"
 
 * 官网地址：[www.yops.cn](https://www.yops.cn?github)
 * 使用文档：[docs.yops.cn](https://docs.yops.cn)
-* 视频教程（B站）：[www.yops.cn](https://space.bilibili.com/)]([https://www.yops.cn](https://space.bilibili.com/3546897876781601?spm_id_from=333.1387.follow.user_card.click)
+* 视频教程（B站）：[https://space.bilibili.com/](https://space.bilibili.com/3546897876781601?spm_id_from=333.1387.follow.user_card.click)
 * 社区交流群：支持用户交流与反馈
 <img width="536" height="540" alt="企微号" src="https://github.com/user-attachments/assets/19fe3625-19e7-4471-bc5d-584be9af5113" />
 
