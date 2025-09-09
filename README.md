@@ -1,8 +1,8 @@
 # Yops 运维面板
 
-[Yops 官网](https://www.yops.cn) ｜ [文档中心](https://docs.yops.cn)
+[Yops 官网](https://www.yops.cn?github) ｜ [文档中心](https://docs.yops.cn)
 
-Yops 是一款轻量化、高性能的 **运维管理面板**，面向开发者、站长与运维工程师，帮助快速管理和运维服务器环境。
+Yops 是一款轻量化、高性能的 **Linux服务器运维管理面板**，面向开发者、站长与运维工程师，帮助快速管理和运维Linux服务器环境。
 它采用 **Go 语言开发**，底层基于 **Docker 容器**，具有占用低、扩展性强、部署简单的特点。
 无论是个人开发者管理一台服务器，还是企业同时管理上百台服务器，Yops 都能保持一致的高效与稳定。
 
@@ -18,8 +18,7 @@ Yops 运维面板围绕 **多机管理、容器化运维、安全防护与站点
   * 面板由 Go 语言开发，内存占用极低，单机仅需约 **24MB**，即使管理十余台节点也能保持流畅运行。
   * 启动速度快，运行稳定，不依赖 PHP 或冗余服务。
 
-
-
+<img width="2560" height="1343" alt="image" src="https://github.com/user-attachments/assets/9fc232fc-bca3-4211-9b9f-b8f12d942313" />
 
 * **多机与容器管理**
 
@@ -86,7 +85,7 @@ sudo bash -c "$(curl -sSL https://download.yops.cn/package/install.sh)"
 
 ## 📖 文档与社区
 
-* 官网地址：[www.yops.cn](https://www.yops.cn)
+* 官网地址：[www.yops.cn](https://www.yops.cn?github)
 * 使用文档：[docs.yops.cn](https://docs.yops.cn)
 * 视频教程（B站）：[www.yops.cn](https://space.bilibili.com/)]([https://www.yops.cn](https://space.bilibili.com/3546897876781601?spm_id_from=333.1387.follow.user_card.click)
 * 社区交流群：支持用户交流与反馈
